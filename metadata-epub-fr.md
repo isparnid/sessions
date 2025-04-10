@@ -1,7 +1,7 @@
 ---
 title: |
-    Les transcriptions de la session Cassiopaea
-subtitle: Juillet 1994 - Mars 2024
+    Transcriptions des séances Cassiopéennes
+subtitle: Juillet 1994 - Mars 2025
 
 author:
 - The Cassiopaea Forum

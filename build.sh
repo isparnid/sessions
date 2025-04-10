@@ -55,12 +55,11 @@ case $1 in
     ;;
 
     html)
-    	pandoc -s -f markdown-fancy_lists --toc \
+    	pandoc -f markdown-fancy_lists --toc \
             --embed-resources --standalone \
             --number-sections \
             --highlight-style=monochrome \
             --metadata-file=metadata$3.md \
-            --metadata title="The Cassiopaea Session Transcripts" \
             --file-scope \
             -o build/sessions$3.html \
             $CHAPTERS
