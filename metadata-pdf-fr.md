@@ -3,7 +3,7 @@ title: |
     Transcriptions des séances Cassiopéennes
 
     ![](assets/cover.svg){width=7cm}
-subtitle: Juillet 1994 - Mars 2025
+subtitle: Juillet 1994 - septembre 2025
 
 author:
 - The Cassiopaea Forum
